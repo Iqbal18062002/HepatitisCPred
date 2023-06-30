@@ -1,5 +1,5 @@
 # HepatitisCPred
-Projek Mandiri membangun Classifier untuk Hepatitis
+Projek Mandiri membangun Classifier untuk Hepatitis C
 
 By Muhammad Iqbal Aldeena
 
