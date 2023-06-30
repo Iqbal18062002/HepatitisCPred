@@ -12,7 +12,6 @@ Lebih dari **50%** orang yang terkena Hepatitis C akan naik ke tingkat kronis. D
 
 Sumber:
 - [CDC : Hepatitis C](https://www.cdc.gov/hepatitis/hcv/index.htm#:~:text=Hepatitis%20C%20is%20a%20liver,to%20prepare%20and%20inject%20drugs.)
-
 - [Hepatitis C dan Fibrosis](https://www.healthline.com/health/hepatitis-c-fibrosis-score#fibrosis-score)
 
 ## **Goals**
